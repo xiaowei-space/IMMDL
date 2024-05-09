@@ -1,1 +1,1 @@
-The code of IMMDL will release soon.
+The code of IMMDL will be released soon.
